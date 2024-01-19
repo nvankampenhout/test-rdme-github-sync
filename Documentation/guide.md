@@ -19,7 +19,3 @@ Text
 
 ![image in Markdown](https://github.com/nvankampenhout/test-rdme-github-sync/blob/main/Documentation/41d9b56-_Pattern.png?raw=true)
 
-### HTML image
-
-<img src="https://github.com/nvankampenhout/test-rdme-github-sync/blob/main/Documentation/41d9b56-_Pattern.png?raw=true" alt="image in html />
-
