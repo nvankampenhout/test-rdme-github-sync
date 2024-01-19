@@ -17,9 +17,9 @@ Text
 
 ### Markdown image
 
-![image in Markdown](41d9b56-_Pattern.png)
+![image in Markdown](https://github.com/nvankampenhout/test-rdme-github-sync/blob/main/Documentation/41d9b56-_Pattern.png?raw=true)
 
 ### HTML image
 
-<img src="41d9b56-_Pattern.png" alt="image in html />
+<img src="https://github.com/nvankampenhout/test-rdme-github-sync/blob/main/Documentation/41d9b56-_Pattern.png?raw=true" alt="image in html />
 
