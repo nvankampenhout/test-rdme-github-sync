@@ -13,7 +13,7 @@ These pages are automatically synced from https://github.com/nvankampenhout/test
 
 ## Header
 
-Text :see_no_evil:
+Text 🙈
 
 ### Markdown image
 
