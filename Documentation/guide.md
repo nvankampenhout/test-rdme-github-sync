@@ -9,7 +9,7 @@ category: 65a6d974ae98f7003c22cc16
 ## Introduction
 Intro text
 
-These pages are automatically synced from https://github.com/nvankampenhout/test-rdme-github-sync
+These pages are automatically synced from https://github.com/nvankampenhout/test-rdme-github-sync.
 
 ## Header
 
