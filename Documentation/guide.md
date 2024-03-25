@@ -48,6 +48,29 @@ Swift
 }
 ```
 
+### Tabbed Code Blocks
+
+Below is a tabbed code block:
+
+```kotlin
+// Hello World Program
+
+fun main(args : Array<String>) {
+    println("Hello, World!")
+}
+```
+```java
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+More text here.
+
 ### Github note
 
 > [!NOTE]
