@@ -11,6 +11,10 @@ Intro text
 
 These pages are automatically synced from https://github.com/nvankampenhout/test-rdme-github-sync.
 
+```
+checkout@v3
+```
+
 ## Header
 
 Text 🙈
